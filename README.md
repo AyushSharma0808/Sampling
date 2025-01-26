@@ -16,8 +16,7 @@ This project focuses on applying different sampling techniques to a credit card 
 
 ### 2. **Balancing the Dataset**
 
-- The dataset was found to have class imbalances, which were addressed using techniques such as:
-  - **Undersampling**: Reducing the majority class to balance the dataset.
+- The dataset was found to have class imbalances, which were addressed using technique such as:
   - **Oversampling**: Duplicating or generating synthetic samples for the minority class using methods like SMOTE (Synthetic Minority Oversampling Technique).
 
 ---
